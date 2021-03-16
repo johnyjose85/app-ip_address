@@ -7,7 +7,6 @@
   Assign the imported object to variable path.
 */
 const path = require('path');
-
 /**
  * Import helper function module located in the same directory
  * as this module. IAP requires the path object's join method
